@@ -37,11 +37,11 @@ Oak & Ember Living is a responsive furniture business website designed to displa
 
 ## 6. Project Author
 
-Name: [Your Full Name]
+Name: [Harriet Achieng]
 
-Course: [Your Course]
+Course: [Full Stalk developer]
 
-Institution: [Your Institution]
+Institution: [BCH]
 
 Date: 14 October 2026
 
